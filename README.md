@@ -1,7 +1,7 @@
 #### DARLYN XD
 
 <p align="center">
-<img src="https://github.com/darlyn1234/sofff3/blob/master/dararchivos/imagen/sofff.jpg" alt="jpg" width="600" height="600"/>
+<img src="https://github.com/darlyn1234/soff2/blob/main/dararchivos/imagen/sofff.jpg" alt="jpg" width="600" height="600"/>
 </p>
 <p align="center">
     <img
@@ -40,18 +40,7 @@
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Cualquier editor de texto
 
-##### `AJUSTES`
-
-- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/darlyn1234/penexd/blob/master/index.js#L136)
-- CAMBIAR NOMBRE DE PROPIETARIO [Aqui](https://github.com/darlyn1234/penexd/blob/master/index.js#L138)
-
 ##### Instalación
-###### Clonar repositorios e instalaciones de dependencias
-```bash
-⎙ git clone https://github.com/darlyn1234/penexd.git
-⎙ cd penexd
-⎙ npm start
-```
 ###### Para Termux
 ```bash
 ⎙ apt update
@@ -65,8 +54,8 @@
 ⎙ pkg install ffmpeg -y 
 ⎙ pkg install wget
 ⎙ pkg install imagemagick -y
-⎙ git clone https://github.com/darlyn1234/penexd
-⎙ cd penexd
+⎙ git clone https://github.com/juguito22/juguito-bot
+⎙ cd juguito-bot
 ⎙ npm install
 ⎙ npm install -g npm@8.4.0
 ⎙ npm install amethyste-api
@@ -75,60 +64,11 @@
 ###### Para un editor de codigo abierto
 ```
 ⎙ cd Downloads
-⎙ cd penexd-master
+⎙ cd juguito-bot-master
 ⎙ npm install
 ⎙ npm install amethyste-api
 ⎙ npm start o node index.js
 
-```
-
-###### Características
-
-- [x] Menu cool
-- [x] comandos nsfw
-- [x] Autojoin a grupos
-- [x] Autootype
-- [x] Juegos, creo xd
-- [x] Antilink
-- [x] Bot 24/7
-- [x] Multi lenguaje
-- [x] Autojoin 
-- [x] Configuración de grupos
-- [x] Antidelete, anticall y antivirtex
-- [x] Bienvenida a grupos
-- [x] On/Off Comando en grupo
-- [x] Kickall
-- [x] Chatbot Automático
-- [x] sticker maker image/video/gif
-- [x] Votacion 
-- [x] Darlyn xd
-- [ ] Y mucho más
-
-
-###### `Y DARLYN XD`
-
-###### `Creditos????????`
-```
-////////////      ///////////    ////////////   ///      ///     ///    /////////   ///
-///       ///     ///     ///    ///      ///   ///       ///    ///    ///   ///   ///
-///       ////    ///     ///    ///     ///    ///        ///   ///    ///   ///   ///
-///       ///     ///     ///    ////////       ///         /// ///     ///   ///   ///
-///       ///     ///////////    ///    ///     ///           ////      ///   ///   ///
-///      ////     ///     ///    ///     ///    ///           ///       ///   ///   ///
-///      ////     ///     ///    ///     ///    ///           ///       ///   ///   ///
-//////////        ///     ///    ///      ///   //////////    ///       ///   ////////
-```
-###### `UWU`
-```
-//////////   ///////////   //////////   /////////   
-//////////   ///////////   ///            ///
-///          ///     ///   ///           ///
-///          ///     ///   /////////     ///
-//////////   ///     ///   /////////     ///
-//////////   ///     ///   ///           ///
-       ///   ///     ///   ///           ///
-//////////   ///////////   ///          ////
-//////////   ///////////   ///      ///////////
 ```
 ###### `Numero del owner`
 
